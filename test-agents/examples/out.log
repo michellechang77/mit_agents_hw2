@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/ec2-user/test-agents/examples/langchain_pirate.py", line 3, in <module>
+    from nanda_adapter import NANDA
+ModuleNotFoundError: No module named 'nanda_adapter'

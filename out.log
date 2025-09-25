@@ -1,0 +1,25 @@
+nohup: ignoring input
+🤖 NANDA initialized with custom improvement logic: pirate_improvement
+🔧 Custom improvement logic 'pirate_improvement' registered
+Message improver set to: nanda_custom
+✅ AgentBridge created with custom improve_message_direct: pirate_improvement
+Starting Pirate Agent with LangChain...
+All messages will be transformed to pirate English!
+🚀 NANDA starting agent_bridge server with custom logic...
+🔧 UI_CLIENT_URL: 
+WARNING: PUBLIC_URL environment variable not set. Agent will not be registered.
+
+🚀 Starting Agent default bridge on port 6000
+Agent terminal port: 6010
+Message improvement feature is ENABLED
+Logging conversations to /home/ec2-user/conversation_logs
+🔧 Using custom improvement logic: pirate_improvement
+Starting A2A server on http://0.0.0.0:6000/a2a
+Google A2A compatibility: Enabled
+ * Serving Flask app 'python_a2a.server.http'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6000
+ * Running on http://172.31.35.95:6000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
